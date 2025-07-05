@@ -7,7 +7,9 @@ The project focuses on form structure, component design, and toggling views usin
 
 ## 📸 Screenshot
 
-![Login UI Screenshot](./screenshot.png) 
+![Login UI Screenshot](./Screenshot%20(377).png) 
+![Login UI Screenshot](./Screenshot%20(378).png)
+
 
 ---
 
